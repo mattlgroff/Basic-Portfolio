@@ -1,0 +1,44 @@
+.YourName {
+	background-color: #4aaaa5;
+	color: white;
+	margin-top: 0;
+	margin-bottom: 0;
+	display: inline-block;
+	float: left;
+	margin-left: 270px;
+	padding: 15px;
+}
+
+div.Header {
+	height:66px;
+	font-family: Georgia;
+	background: #ffffff;
+	border-top-width: 0px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 3px;
+	border-style: solid;
+	border-color: #cccccc;
+}
+
+h3.Navigation {
+	float:right;
+	display: inline-block;
+	margin-right: 270px;
+	color: #cccccc;
+}
+
+body {
+	margin: 0px;
+	background: gray;
+}
+
+.MainContent {
+	display: inline-block;
+	float: left;
+	background-color: #cccccc;
+	width: 650px;
+	height: 400px;
+	margin-top: 50px;
+	margin-left: 270px;
+}
